@@ -1,3 +1,1 @@
-
-FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1
-MAINTAINER yfun@live.cn
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.7.1 
